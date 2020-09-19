@@ -6,10 +6,8 @@ body {
   background-size: auto;
   background-repeat: no-repeat;
       }
-td {
- width:150px;
-  text-align:center;
-  border:1px black;
-  padding: 5px;
+table { 
+  border-collapse: separate;
+  border-spacing: 10px;
 }
-/* I had trouble figuring out how to space the cells in the table, so I researched it and found the code for the spacing  on https://www.geeksforgeeks.org/.*/
+/* I had trouble figuring out how to space the cells in the table, so I researched it and found the code for the spacing  on https://stackoverflow.com/questions/12585461/controlling-spacing-between-table-cells.*/
