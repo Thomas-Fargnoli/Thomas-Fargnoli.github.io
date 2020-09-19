@@ -6,6 +6,10 @@ body {
   background-size: auto;
   background-repeat: no-repeat;
       }
-table {
- border-spacing:0 150px;
+td {
+ width:150px;
+  text-align:center;
+  border:1px black;
+  padding: 5px;
 }
+/* I had trouble figuring out how to space the cells in the table, so I researched it and found the code for the spacing  on https://www.geeksforgeeks.org/.*/
