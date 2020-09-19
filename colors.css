@@ -7,5 +7,5 @@ body {
   background-repeat: no-repeat;
       }
 th {
- width:150px;
+ border-spacing:0 150px;
 }
