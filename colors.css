@@ -1,5 +1,9 @@
 h1 {
   background-color: #ABABAB;
+  text-align: center;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
 }
 body {
     background-image: url('myBackground.jpg');
@@ -17,4 +21,8 @@ p {
   background-color: #ABABAB;
   width: 70%;
   height: 200px;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: auto;
 }
