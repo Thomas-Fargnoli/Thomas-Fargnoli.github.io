@@ -8,7 +8,6 @@ body {
       }
 table { 
   padding: 12px;
-  border: 2px transparent #C0C0C0;
   border-collapse:separate;
   -webkit-border-vertical-spacing: 15px;
 }
