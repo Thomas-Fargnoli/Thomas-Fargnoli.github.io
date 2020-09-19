@@ -7,7 +7,8 @@ body {
   background-repeat: no-repeat;
       }
 table { 
-  border-collapse: separate;
-  border-spacing: 40px;
+  padding: 12px;
+  border: 2px solid #C0C0C0;
+  border-collapse:separate;
 }
 /* I had trouble figuring out how to space the cells in the table, so I researched it and found the code for the spacing  on https://stackoverflow.com/questions/12585461/controlling-spacing-between-table-cells.*/
