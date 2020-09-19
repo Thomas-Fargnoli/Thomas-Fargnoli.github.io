@@ -3,6 +3,8 @@ h1 {
 }
 body {
     background-image: url('myBackround.jpg');
+  background-size: auto;
+  background-repeat: no-repeat;
       }
 th {
   margin-left: 10px;
